@@ -3,7 +3,7 @@
 ### Sobre mim
 
 - 🚀 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como QA Engineer na Kirvano.
+- 💼 Trabalhando como QA Engineer na @[Kirvano](https://www.kirvano.com/).
 - 🌱 Aprofundando meus conhecimentos em frameworks de Automação Web e APIs.
 - 💻🎮 Apaixonada por tecnologia e games.
 
