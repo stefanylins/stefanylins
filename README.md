@@ -41,4 +41,5 @@
 
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanylins/)
+![Gmail](https://img.shields.io/badge/stefanylins19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
