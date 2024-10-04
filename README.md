@@ -20,7 +20,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-323330?style=for-the-badge&logo=Swagger&logoColor=green)
 
 
-### Banco de dados
+### Banco de dados e cloud services
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
