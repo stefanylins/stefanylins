@@ -1,5 +1,8 @@
 ## 💜 Olá, meu nome é Stefany Lins!
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanylins/)
+![Gmail](https://img.shields.io/badge/stefanylins19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 ### Sobre mim
 
 - 🚀 Explorando novas tecnologias e desenvolvendo soluções de software
@@ -39,7 +42,4 @@
 ![GithubActions](https://img.shields.io/badge/Github-Actions-0052CC?style=for-the-badge&logo=GithubActions&logoColor=white)
 
 
-## Onde me encontrar
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanylins/)
-![Gmail](https://img.shields.io/badge/stefanylins19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
