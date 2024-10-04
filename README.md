@@ -4,7 +4,7 @@
 
 - 🚀 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼 Trabalhando como QA Engineer na Kirvano.
-- 🌱 Aprofundando meus conhecimentos em frameworks de automação web.
+- 🌱 Aprofundando meus conhecimentos em frameworks de Automação Web e APIs.
 - 💻 Apaixonada por tecnologia 
 
 
