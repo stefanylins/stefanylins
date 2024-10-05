@@ -18,6 +18,8 @@
 ![Cypress](https://img.shields.io/badge/Cypress-323330?style=for-the-badge&logo=Cypress&logoColor=green)
 ![Postman](https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=Postman&logoColor=orange)
 ![Swagger](https://img.shields.io/badge/Swagger-323330?style=for-the-badge&logo=Swagger&logoColor=green)
+![Newman](https://img.shields.io/badge/Newman-323330?style=for-the-badge&logo=Newman&logoColor=green)
+![API](https://img.shields.io/badge/API-REST-323330?style=for-the-badge&logo=API&logoColor=green)
 
 
 ### Banco de dados e cloud services
