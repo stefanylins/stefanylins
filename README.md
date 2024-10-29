@@ -19,8 +19,6 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Newman](https://img.shields.io/badge/Newman-323330?style=for-the-badge&logo=Newman&logoColor=green)
-![API](https://img.shields.io/badge/API-REST-323330?style=for-the-badge&logo=API&logoColor=green)
 
 
 ### Banco de dados e cloud services
