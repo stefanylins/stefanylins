@@ -17,7 +17,7 @@
 
 ![Cypress](https://img.shields.io/badge/Cypress-323330?style=for-the-badge&logo=Cypress&logoColor=green)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-323330?style=for-the-badge&logo=Swagger&logoColor=green)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Newman](https://img.shields.io/badge/Newman-323330?style=for-the-badge&logo=Newman&logoColor=green)
 ![API](https://img.shields.io/badge/API-REST-323330?style=for-the-badge&logo=API&logoColor=green)
 
