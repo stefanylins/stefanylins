@@ -1,19 +1,19 @@
-## 💜 Olá, meu nome é Stefany Lins!
+## 💜 Hello, my name is Stefany Lins 🖐️!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanylins/)
 ![Gmail](https://img.shields.io/badge/stefanylins19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### Sobre mim
 
-- 🚀 Explorando novas tecnologias e desenvolvendo soluções de software
-- 💼 Trabalhando como QA Engineer na @[Kirvano](https://www.kirvano.com/)
-- 🌱 Aprofundando meus conhecimentos em frameworks de Automação Web e APIs
-- 💻🎮 Apaixonada por tecnologia e games
+- 🚀 Exploring new technologies and developing software solutions
+- 💼 Working as a QA Engineer at @[Kirvano](https://www.kirvano.com/)
+- 🌱 Deepening my knowledge in Web Automation and API frameworks
+- 💻🎮 Passionate about technology and games
 
 
-## Minhas Skills
+## Hard Skills
 
-### Automação e Testes
+### Automation and Testing
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -21,13 +21,13 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
-### Banco de dados e cloud services
+### Databases and Cloud Services
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-### Ferramentas de desenvolvimento
+### Development Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,7 +38,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-### Gerenciamento e integração
+### Management and Integration
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
